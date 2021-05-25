@@ -1,0 +1,18 @@
+2021-05-25 15:57:42 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\n819460\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Narayana\Practice\AngularCLI\bhargava-api\index.js --log "bhargavaapi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-25 15:57:42 - Started 12596
+2021-05-25 16:04:54 - Stopping bhargavaapi.exe
+2021-05-25 16:04:54 - ProcessKill 12596
+2021-05-25 16:04:54 - Found child process: 17728 Name: conhost.exe
+2021-05-25 16:04:54 - Found child process: 15772 Name: node.exe
+2021-05-25 16:04:55 - Stopping process 17728
+2021-05-25 16:04:55 - Send SIGINT 17728
+2021-05-25 16:04:55 - SIGINT to 17728 failed - Killing as fallback
+2021-05-25 16:04:55 - Stopping process 15772
+2021-05-25 16:04:55 - Send SIGINT 15772
+2021-05-25 16:04:55 - SIGINT to 15772 failed - Killing as fallback
+2021-05-25 16:04:55 - Stopping process 12596
+2021-05-25 16:04:55 - Send SIGINT 12596
+2021-05-25 16:04:55 - SIGINT to 12596 failed - Killing as fallback
+2021-05-25 16:04:55 - Finished bhargavaapi.exe
+2021-05-25 16:05:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\n819460\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Narayana\Practice\AngularCLI\bhargava-api\index.js --log "bhargavaapi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-25 16:05:22 - Started 10660

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+      <meta charset="utf8">
+      <title>Bhargava App - Maths</title>
+      <link href="../common.css" rel="stylesheet" />
+      <link href="english.css" rel="stylesheet" />
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/rxjs/6.6.7/rxjs.umd.min.js"
+            integrity="sha512-0/2ebe9lI6BcinFBXFjbBkquDfccT2wP+E48pecciFuGMXPRNdInXZawHiM2NUUVJ4/aKAzyebbvh+CkvRhwTA=="
+            crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.7.4/socket.io.min.js"></script>
+</head>
+
+<body>
+      <div style="padding: 16px;">
+            <a href="../index.html">Go Home</a>
+      </div>
+      <div style="display: flex; flex-direction: column;align-items: center;">
+            <div style="display: flex; padding: 10px;">
+            <div class="item">
+                  <button class="btn-radius-12" id="btnStart">Start</button>
+            </div>
+            <div class="item">
+                  <button class="btn-stop btn-radius-12" id="btnStop">Stop</button>
+            </div>
+      </div>
+      <div class="current-result">
+            <div id="currentResult"></div>
+      </div>
+     
+      </div>
+     
+      <script src="english.js"></script>
+</body>
+
+</html>

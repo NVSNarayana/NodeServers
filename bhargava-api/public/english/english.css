@@ -1,0 +1,15 @@
+.current-result{
+      display: flex; 
+      color: green; 
+      border: 1px solid black; 
+      height: 400px; 
+      width: 400px;
+      justify-content: center;
+      align-items: center;
+      padding: 50px;
+
+}
+
+#currentResult{
+      font-size: 25rem;
+}

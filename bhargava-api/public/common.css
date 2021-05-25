@@ -1,0 +1,23 @@
+button {
+      background-color: #04AA6D; /* Green */
+      border: none;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 5px;
+      cursor: pointer;
+      min-width: 150px;
+    }
+
+    .btn-radius-12 {border-radius: 12px;}
+
+    .btn-stop{
+      background-color: red;
+    }
+
+    .btn-reset{
+      background-color: darkorchid;
+    }
